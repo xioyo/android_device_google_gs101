@@ -352,9 +352,6 @@ PRODUCT_PACKAGES += \
     EuiccSupportPixelOverlay \
     FrameworkResOverlayProductGs101 \
     FrameworkResOverlayVendorGs101 \
-    GlanceableHubConfigOverlay \
-    GlanceableHubSettingsConfigOverlay \
-    GlanceableHubSysuiConfigOverlay \
     GoogleConfigOverlay \
     GooglePermissionControllerSafetyCenterOverlay \
     PixelConfigOverlay2019 \
